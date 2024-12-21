@@ -1,0 +1,9 @@
+python-dotenv
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-huggingface
+uvicorn
+simple-salesforce
+salesforce-bulk
+gradio-client
+fastapi
